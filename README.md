@@ -1,7 +1,7 @@
 # SCU-Anonymous-Forum
 
 
-<img src="http://cdn.scuhuoguodiliao.com/logo.png" style="zoom:50%;" />
+<img src="http://cdn.scuhuoguodiliao.com/logo.png" style="zoom:20%;" />
 
 
 

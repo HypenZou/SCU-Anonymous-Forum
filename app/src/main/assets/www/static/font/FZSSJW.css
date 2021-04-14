@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "FZSSJW";
+  src:
+       url("FZSSJW.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}

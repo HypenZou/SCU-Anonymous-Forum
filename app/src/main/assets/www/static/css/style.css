@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+.top{
+  z-index: 2;
+}
+.xtop{
+  z-index: 100;
+}
+.white_space{
+  white-space: pre-wrap;
+}
+
+
+.mb-10{
+  margin-bottom: 40;
+}
+
+
+
+.text_black{
+  color: black;
+}
+.text_white{
+  color: white;
+}
+.text_red{
+  color:'#E53935'
+}
+.text_grey{
+  color: #9E9E9E;
+}
+
+
+.text_thick{
+  font-weight: bold;
+}
+.text_xthick{
+  font-weight: bolder;
+}
+/* .text_xxthick{
+  font-weight: 1000;
+} */
+
+.text_xsmall{
+  font-size: 12px;
+}
+.text_small---{
+  font-size: 13px;
+
+}
+.text_small--{
+  font-size: 14px;
+}
+
+.text_small-{
+  font-size: 15px;
+}
+
+.text_small{
+  font-size: 16px;
+}
+
+.text_middle--{
+  font-size: 18px;
+}
+.text_middle-{
+  font-size: 19px;
+}
+
+.text_middle{
+  font-size: 20px;
+}
+
+.text_large{
+  font-size: 24px;
+}
+
+.text_xlarge{
+  font-size: 28px;
+}
+.text_xxlarge{
+  font-size: 36px;
+}
+.text_xxxlarge{
+  font-size: 42px;
+}
+.text_xxxxlarge{
+  font-size: 50px;
+}
+
+.text_FZSSJW{
+  font-family: 'FZSSJW';
+}
+.text_pingfang{
+  font-family: '萍方-简';
+}
+.text_fangsong{
+  font-family: 'simfang';
+}
+
+.line_close{
+  line-height:0px
+}
+.line_one{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+.line_two{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.line_three{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+.line_twelve{
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 16;
+  -webkit-box-orient: vertical;
+}
+
+
+
+.flex_3{
+  flex:33.33%
+}
